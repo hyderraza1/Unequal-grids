@@ -1,0 +1,17 @@
+h1{
+    text-transform: uppercase;
+}
+.T{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}   
+.col{
+    background-color: black;
+    text-align: center;
+    border: 2px solid black;
+    text-transform: uppercase; 
+}
+ul{
+    border: 2px solid rgba(140, 0, 255, 0.89);
+    padding: 23px;
+    margin: 12px;
+}    
